@@ -8,6 +8,12 @@
 - [Dataset](#dataset)
 
 ## Dataset
-Dataset of faulty science questions by different subjects:
+Dataset of faulty science questions by different subjects: (in total 20 subjects with 5 questions each subject)
 
 https://docs.google.com/spreadsheets/d/1pxm7_-M4s6ygUYinye24H0nI1a0N3je831xULYvl2jE/edit?usp=sharing
+
+My experimental columns:
+
+| Discipline | Question | Reason you think it is faulty | Which top LLM you tried | Response by the top LLM | Original correct question | Faulty Reason Type |
+
+
